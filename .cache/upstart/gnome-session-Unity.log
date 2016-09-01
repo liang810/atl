@@ -1,0 +1,106 @@
+GNOME_KEYRING_CONTROL=/run/user/31928/keyring-Wk4Ov1
+GPG_AGENT_INFO=/run/user/31928/keyring-Wk4Ov1/gpg:0:1
+SSH_AUTH_SOCK=/run/user/31928/keyring-Wk4Ov1/ssh
+GNOME_KEYRING_CONTROL=/run/user/31928/keyring-Wk4Ov1
+GPG_AGENT_INFO=/run/user/31928/keyring-Wk4Ov1/gpg:0:1
+SSH_AUTH_SOCK=/run/user/31928/keyring-Wk4Ov1/ssh
+GNOME_KEYRING_CONTROL=/run/user/31928/keyring-Wk4Ov1
+GPG_AGENT_INFO=/run/user/31928/keyring-Wk4Ov1/gpg:0:1
+SSH_AUTH_SOCK=/run/user/31928/keyring-Wk4Ov1/ssh
+GNOME_KEYRING_CONTROL=/run/user/31928/keyring-Wk4Ov1
+GPG_AGENT_INFO=/run/user/31928/keyring-Wk4Ov1/gpg:0:1
+SSH_AUTH_SOCK=/run/user/31928/keyring-Wk4Ov1/ssh
+compiz (core) - Info: Loading plugin: core
+compiz (core) - Info: Starting plugin: core
+compiz (core) - Info: Loading plugin: ccp
+compiz (core) - Info: Starting plugin: ccp
+compizconfig - Info: Backend     : gsettings
+compizconfig - Info: Integration : true
+compizconfig - Info: Profile     : unity
+Creating config directory:'/home/cc/cs186/fa16/class/cs186-atl/.config/tracker'
+
+(process:6243): indicator-application-service-WARNING **: Unable to get watcher name 'org.kde.StatusNotifierWatcher'
+
+(process:6243): indicator-application-service-WARNING **: Name Lost
+
+** (process:6254): CRITICAL **: bluez.vala:104: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.bluez was not provided by any .service files
+compiz (core) - Info: Loading plugin: composite
+compiz (core) - Info: Starting plugin: composite
+compiz (core) - Info: Loading plugin: opengl
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Unity is fully supported by your hardware.
+compiz (core) - Info: Starting plugin: opengl
+Compiz (opengl) - Info: GLX_EXT_buffer_age is supported
+compiz (core) - Info: Loading plugin: mousepoll
+compiz (core) - Info: Starting plugin: mousepoll
+compiz (core) - Info: Loading plugin: place
+compiz (core) - Info: Starting plugin: place
+compiz (core) - Info: Loading plugin: resize
+compiz (core) - Info: Starting plugin: resize
+compiz (core) - Info: Loading plugin: vpswitch
+compiz (core) - Info: Starting plugin: vpswitch
+compiz (core) - Info: Loading plugin: commands
+compiz (core) - Info: Starting plugin: commands
+compiz (core) - Info: Loading plugin: session
+compiz (core) - Info: Starting plugin: session
+I/O warning : failed to load external entity "/home/cc/cs186/fa16/class/cs186-atl/.compiz/session/106f7cbf5d1b38cee6147276928479407700000060200001"
+compiz (core) - Info: Loading plugin: grid
+compiz (core) - Info: Starting plugin: grid
+compiz (core) - Info: Loading plugin: move
+compiz (core) - Info: Starting plugin: move
+compiz (core) - Info: Loading plugin: wall
+compiz (core) - Info: Starting plugin: wall
+compiz (core) - Info: Loading plugin: compiztoolbox
+compiz (core) - Info: Starting plugin: compiztoolbox
+compiz (core) - Info: Loading plugin: copytex
+compiz (core) - Info: Starting plugin: copytex
+compiz (core) - Info: Loading plugin: snap
+compiz (core) - Info: Starting plugin: snap
+compiz (core) - Info: Loading plugin: regex
+compiz (core) - Info: Starting plugin: regex
+compiz (core) - Info: Loading plugin: imgpng
+compiz (core) - Info: Starting plugin: imgpng
+compiz (core) - Info: Loading plugin: animation
+compiz (core) - Info: Starting plugin: animation
+compiz (core) - Info: Loading plugin: expo
+compiz (core) - Info: Starting plugin: expo
+compiz (core) - Info: Loading plugin: unitymtgrabhandles
+compiz (core) - Info: Starting plugin: unitymtgrabhandles
+compiz (core) - Info: Loading plugin: workarounds
+compiz (core) - Info: Starting plugin: workarounds
+compiz (core) - Info: Loading plugin: ezoom
+compiz (core) - Info: Starting plugin: ezoom
+compiz (core) - Info: Loading plugin: fade
+compiz (core) - Info: Starting plugin: fade
+compiz (core) - Info: Loading plugin: scale
+compiz (core) - Info: Starting plugin: scale
+compiz (core) - Info: Loading plugin: unityshell
+compiz (core) - Info: Starting plugin: unityshell
+WARN  2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.Shell' yet as we don't have a connection, waiting for it...
+ERROR 2016-09-01 15:34:46 unity.debug.interface DebugDBusInterface.cpp:216 Unable to load entry point in libxpathselect: libxpathselect.so.1.4: cannot open shared object file: No such file or directory
+WARN  2016-09-01 15:34:46 xim.controller XIMController.cpp:103 IBus natively supported.
+WARN  2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Launcher' yet as we don't have a connection, waiting for it...
+WARN  2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Dash' yet as we don't have a connection, waiting for it...
+WARN  2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.SessionManager.EndSessionDialog' yet as we don't have a connection, waiting for it...
+WARN  2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'com.canonical.Unity.Session' yet as we don't have a connection, waiting for it...
+WARN  2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:579 Can't register object 'org.gnome.ScreenSaver' yet as we don't have a connection, waiting for it...
+ERROR 2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'org.gnome.Shell'
+ERROR 2016-09-01 15:34:46 unity.glib.dbus.server GLibDBusServer.cpp:524 DBus name lost 'com.canonical.Unity'
+WARN  2016-09-01 15:34:54 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+
+(nm-applet:6244): nm-applet-WARNING **: Could not find ShellVersion property on org.gnome.Shell after 5 tries
+WARN  2016-09-01 15:34:58 unityct(io) <unknown>:0 Desktop file '/usr/share/applications/google-chrome.desktop' is using a deprecated format for its actions that will be dropped soon.
+
+** (zeitgeist-datahub:7363): WARNING **: zeitgeist-datahub.vala:229: Unable to get name "org.gnome.zeitgeist.datahub" on the bus!
+[1:1:0901/153518:ERROR:PlatformKeyboardEvent.cpp(84)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+
+(gnome-terminal:7664): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+[1:1:0901/153632:ERROR:PlatformKeyboardEvent.cpp(84)] Not implemented reached in static bool blink::PlatformKeyboardEvent::currentCapsLockState()
+
+(thunderbird:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::sm-connect after class was initialised
+
+(thunderbird:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::show-crash-dialog after class was initialised
+
+(thunderbird:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::display after class was initialised
+
+(thunderbird:9477): GLib-GObject-WARNING **: Attempt to add property GnomeProgram::default-icon after class was initialised
