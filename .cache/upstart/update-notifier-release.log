@@ -1,0 +1,15 @@
+Thu Sep  1 15:34:42 PDT 2016 new release available
+Traceback (most recent call last):
+  File "/usr/lib/ubuntu-release-upgrader/check-new-release-gtk", line 192, in <module>
+    cnr = CheckNewReleaseGtk(options)
+  File "/usr/lib/ubuntu-release-upgrader/check-new-release-gtk", line 79, in __init__
+    useProposed=options.proposed_release)
+  File "/usr/lib/python3/dist-packages/UpdateManager/MetaReleaseGObject.py", line 44, in __init__
+    MetaReleaseCore.__init__(self, useDevelopmentRelease, useProposed)
+  File "/usr/lib/python3/dist-packages/UpdateManager/Core/MetaRelease.py", line 94, in __init__
+    cache = apt.Cache()
+  File "/usr/lib/python3/dist-packages/apt/cache.py", line 107, in __init__
+    self.open(progress)
+  File "/usr/lib/python3/dist-packages/apt/cache.py", line 155, in open
+    self._list.read_main_list()
+SystemError: E:Opening /etc/apt/sources.list.d/cuda.list - ifstream::ifstream (13: Permission denied)
